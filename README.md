@@ -1,6 +1,6 @@
 # MAO
 
-ERC20 MAO Token
+MAO is an ERC20 token, and related to the earlier release of MAO (mao), a QT app. trading on Yobit Exchange
 
 ------
 
