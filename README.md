@@ -2,6 +2,13 @@
 
 ERC20 MAO Token
 
+------
+
+![MAO](https://raw.githubusercontent.com/insaneinthemembrane/MAO-ZEDONG/master/src/qt/res/icons/bitcoin256.png)
+
+
+-----
+
 
 Compiler Version: v0.4.19+commit.c4cbbb05
 Optimization Enabled: 0
