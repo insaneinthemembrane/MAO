@@ -2,6 +2,13 @@
 
 ERC20 MAO Token
 
+
+Compiler Version: v0.4.19+commit.c4cbbb05
+Optimization Enabled: 0
+
+ContractName:
+MAO
+
 ------
 
 Contract Address
